@@ -13,4 +13,4 @@ bash ~/miniconda.sh -b -p $HOME/miniconda
 export PATH="$HOME/miniconda/bin:$PATH"
 rm ~/miniconda.sh
 
-conda install -y -c maciejkula -c pytorch -c peterjc123 spotlight=0.1.4
+conda install -y -c maciejkula -c pytorch spotlight=0.1.5
